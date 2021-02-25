@@ -1,6 +1,6 @@
 ### Quihúbole(v)s👋 Welcome to: 
 
-![cooltext377622119821191](https://user-images.githubusercontent.com/79481900/109228647-0003e180-7777-11eb-9281-fe789966b412.gif) ![tenor](https://user-images.githubusercontent.com/79481900/109228849-51ac6c00-7777-11eb-8886-53c6a4e5376f.gif)
+![cooltext377622119821191](https://user-images.githubusercontent.com/79481900/109228647-0003e180-7777-11eb-9281-fe789966b412.gif)
 
 
 
