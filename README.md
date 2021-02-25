@@ -1,6 +1,6 @@
-### Hi Stranger👋 Welcome to: 
+### Quihúbole(v)s👋 Welcome to: 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently studying on Instituto Tecnológico de Tijuana
 - 🌱 I’m currently learning to get started on GithubPRO
