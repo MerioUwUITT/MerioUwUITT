@@ -1,6 +1,6 @@
 ### Quihúbole(v)s👋 Welcome to: 
 
-![](https://r77.cooltext.com/rendered/cooltext377621325494044.gif)
+![Alt Text](https://r77.cooltext.com/rendered/cooltext377621325494044.gif)
 
 - 🔭 I’m currently studying on Instituto Tecnológico de Tijuana
 - 🌱 I’m currently learning to get started on GithubPRO
