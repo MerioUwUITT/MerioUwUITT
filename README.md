@@ -15,9 +15,10 @@
 Schedule
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- | --- |
-| 14:00 | Lenguajes de Interfaz | Lenguajes de Interfaz | Lenguajes de Interfaz | Lenguajes de Interfaz | |
-| 15:00 | Fundamentos de Ingeniería de Software | Fundamentos de Ingeniería de Software | Fundamentos de Ingeniería de Software | Fundamentos de Ingeniería de Software | |
-| 16:00 | Lenguajes y Autómatas I | Lenguajes y Autómatas I | Lenguajes y Autómatas I | Lenguajes y Autómatas I | Lenguajes y Autómatas I |
-| 17:00 | Arquitectura de Computadoras | Arquitectura de Computadoras | Arquitectura de Computadoras | Arquitectura de Computadoras | Arquitectura de Computadoras |
-| 18:00 | Redes de Computadoras | Redes de Computadoras | Redes de Computadoras | Redes de Computadoras | Redes de Computadoras |
-| 19:00 | Programación Lógica y Funcional | Programación Lógica y Funcional | Programación Lógica y Funcional | Programación Lógica y Funcional | |
+| 12:00 | --- | Contabilidad Financiera | Contabilidad Financiera | Contabilidad Financiera | Contabilidad Financiera |
+| 13:00 | Ingeniería de Software | Ingeniería de Software | Ingeniería de Software | Ingeniería de Software | Ingeniería de Software |
+| 14:00 | Lenguajes de Interfaz | Lenguajes de Interfaz | Lenguajes de Interfaz | Lenguajes de Interfaz | --- |
+| 15:00 | Taller de Sistemas Operativos | Taller de Sistemas Operativos | Taller de Sistemas Operativos | Taller de Sistemas Operativos | --- |
+| 16:00 | Desarrollo Sustentable | Desarrollo Sustentable | Desarrollo Sustentable | Desarrollo Sustentable | Desarrollo Sustentable |
+| 17:00 | Lenguajes y Autómatas I | Lenguajes y Autómatas I | Lenguajes y Autómatas I | Lenguajes y Autómatas I | Lenguajes y Autómatas I |
+| 18:00 | Conmutación y Enrutamiento de Redes | Conmutación y Enrutamiento de Redes | Conmutación y Enrutamiento de Redes | Conmutación y Enrutamiento de Redes | Conmutación y Enrutamiento de Redes |
