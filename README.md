@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on any type of programming stuff
 - 💬 Ask me about Naruto, I really love Naruto
 - 📫 How to reach me: <a href="https://www.facebook.com/Eh.We.No.We/">Facebook</a>.
-- ⚡ Fun fact: I'm Colorblind![Mario](https://user-images.githubusercontent.com/79481900/109250298-49b3f280-779e-11eb-8b40-c72dc36c177d.gif)
+- ⚡ I love Tattoos
 
 ----
 Schedule
