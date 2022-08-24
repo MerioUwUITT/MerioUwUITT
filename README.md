@@ -17,10 +17,9 @@
 Schedule
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- | --- |
-| 12:00 | --- | Contabilidad Financiera | Contabilidad Financiera | Contabilidad Financiera | Contabilidad Financiera |
-| 13:00 | Ingeniería de Software | Ingeniería de Software | Ingeniería de Software | Ingeniería de Software | Ingeniería de Software |
-| 14:00 | Lenguajes de Interfaz | Lenguajes de Interfaz | Lenguajes de Interfaz | Lenguajes de Interfaz | --- |
-| 15:00 | Taller de Sistemas Operativos | Taller de Sistemas Operativos | Taller de Sistemas Operativos | Taller de Sistemas Operativos | --- |
-| 16:00 | Desarrollo Sustentable | Desarrollo Sustentable | Desarrollo Sustentable | Desarrollo Sustentable | Desarrollo Sustentable |
-| 17:00 | Lenguajes y Autómatas I | Lenguajes y Autómatas I | Lenguajes y Autómatas I | Lenguajes y Autómatas I | Lenguajes y Autómatas I |
-| 18:00 | Conmutación y Enrutamiento de Redes | Conmutación y Enrutamiento de Redes | Conmutación y Enrutamiento de Redes | Conmutación y Enrutamiento de Redes | Conmutación y Enrutamiento de Redes |
+| 14:00 | Taller de Bases de datos |  Taller de Bases de datos  |  Taller de Bases de datos |  Taller de Bases de datos  |  Gestión de Proyectos de Software  |
+| 15:00 | Gestión de Proyectos de Software  | Gestión de Proyectos de Software  | Gestión de Proyectos de Software  | Gestión de Proyectos de Software  | Gestión de Proyectos de Software |
+| 16:00 | Administración de Redes | Administración de Redes | Administración de Redes | Administración de Redes | --- |
+| 17:00 | Sistemas Programables | Sistemas Programables | Sistemas Programables | Sistemas Programables | --- |
+| 18:00 | Prgramación Web | Prgramación Web | Prgramación Web | Prgramación Web | --- |
+| 19:00 | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software |
