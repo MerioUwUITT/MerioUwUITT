@@ -21,5 +21,5 @@ Schedule
 | 15:00 | Gestión de Proyectos de Software  | Gestión de Proyectos de Software  | Gestión de Proyectos de Software  | Gestión de Proyectos de Software  | Gestión de Proyectos de Software |
 | 16:00 | Administración de Redes | Administración de Redes | Administración de Redes | Administración de Redes | --- |
 | 17:00 | Sistemas Programables | Sistemas Programables | Sistemas Programables | Sistemas Programables | --- |
-| 18:00 | Prgramación Web | Prgramación Web | Prgramación Web | Prgramación Web | --- |
+| 18:00 | Prgramación Web | Prgramación Web | Prgramación Web | Prgramación Web | Programación Web |
 | 19:00 | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software |
