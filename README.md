@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning to get started on GithubPRO
 - 👯 I’m looking to collaborate on any type of programming stuff
 - 💬 Ask me about Naruto, I really love Naruto
-- 📫 How to reach me: <a href="https://www.facebook.com/Eh.We.No.We/">Facebook</a>.
+- 📫 How to reach me: <a href="https://www.facebook.com/Merio.UwU/">Facebook</a>.
 - ⚡ I love Tattoos
 - 🎶 If you want to hear some rock, listen to <a href="https://open.spotify.com/playlist/6xgUn34NDLJ4H0kHMunnlX?si=e728a79c2a814485" target="_blank">this</a> 🎶
 - 🎶 If you want to vibe with hip hop, hear <a href="https://open.spotify.com/playlist/2BOmXNuY68bAvgeNBv41qj?si=d9ac230d3fe14258" target="_blank">this</a> 🎶
