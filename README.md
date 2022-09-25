@@ -1,4 +1,4 @@
-### Quihúbole(v)s👋 Welcome to: 
+# Quihúbole(v)s👋 Welcome to: 
 
 ![cooltext377622119821191](https://user-images.githubusercontent.com/79481900/109228647-0003e180-7777-11eb-9281-fe789966b412.gif)
 
@@ -14,7 +14,7 @@
 - 🎶 If you want to vibe with hip hop, hear <a href="https://open.spotify.com/playlist/2BOmXNuY68bAvgeNBv41qj?si=d9ac230d3fe14258" target="_blank">this</a> 🎶
 - 🎶 If you want to sing some good songs, click <a href="https://open.spotify.com/playlist/0cMz2nDxttLWlElagYaVX1?si=ac88cced586e44a0" target="_blank">here</a> 🎶
 ----
-Schedule
+# Schedule
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- | --- |
 | 14:00 |![TBD](https://user-images.githubusercontent.com/79481900/186821500-da84cd74-7174-4280-8092-c752ae1fd706.png)|![TBD](https://user-images.githubusercontent.com/79481900/186821500-da84cd74-7174-4280-8092-c752ae1fd706.png)|![TBD](https://user-images.githubusercontent.com/79481900/186821500-da84cd74-7174-4280-8092-c752ae1fd706.png)|![TBD](https://user-images.githubusercontent.com/79481900/186821500-da84cd74-7174-4280-8092-c752ae1fd706.png)|![GPS](https://user-images.githubusercontent.com/79481900/186821499-4f9cd892-3dc1-49cd-be5d-40a9c5dd46a5.png)|
@@ -23,3 +23,11 @@ Schedule
 | 17:00 |![SP](https://user-images.githubusercontent.com/79481900/186822659-70ac7927-0bea-48cb-97c7-69ab01ab8619.png)|![SP](https://user-images.githubusercontent.com/79481900/186822659-70ac7927-0bea-48cb-97c7-69ab01ab8619.png)|![SP](https://user-images.githubusercontent.com/79481900/186822659-70ac7927-0bea-48cb-97c7-69ab01ab8619.png)|![SP](https://user-images.githubusercontent.com/79481900/186822659-70ac7927-0bea-48cb-97c7-69ab01ab8619.png)| ----- |
 | 18:00 |![PW](https://user-images.githubusercontent.com/79481900/186822561-952f5dad-0d34-45b8-a200-ffb4ccd22944.gif)|![PW](https://user-images.githubusercontent.com/79481900/186822561-952f5dad-0d34-45b8-a200-ffb4ccd22944.gif)|![PW](https://user-images.githubusercontent.com/79481900/186822561-952f5dad-0d34-45b8-a200-ffb4ccd22944.gif)|![PW](https://user-images.githubusercontent.com/79481900/186822561-952f5dad-0d34-45b8-a200-ffb4ccd22944.gif)|![PW](https://user-images.githubusercontent.com/79481900/186822561-952f5dad-0d34-45b8-a200-ffb4ccd22944.gif)|
 | 19:00 |![TADS](https://user-images.githubusercontent.com/79481900/186822565-f2d6c3bf-b413-4a76-9dab-57312a245935.png)|![TADS](https://user-images.githubusercontent.com/79481900/186822565-f2d6c3bf-b413-4a76-9dab-57312a245935.png)|![TADS](https://user-images.githubusercontent.com/79481900/186822565-f2d6c3bf-b413-4a76-9dab-57312a245935.png)|![TADS](https://user-images.githubusercontent.com/79481900/186822565-f2d6c3bf-b413-4a76-9dab-57312a245935.png)|![TADS](https://user-images.githubusercontent.com/79481900/186822565-f2d6c3bf-b413-4a76-9dab-57312a245935.png)|
+
+# SoloLearn Certificates
+
+| Course      | Certificate |
+|-------------|-------------|
+| C#          |     ![C#](https://user-images.githubusercontent.com/79481900/192140415-ba7586c5-9c05-49e7-b235-f6f232f3571f.png)  |
+| C++         |        ![C++](https://user-images.githubusercontent.com/79481900/192140421-dadd3d30-d8a7-4cfb-924a-10531a900ee5.png)   |
+| Python Core |      ![Python Core](https://user-images.githubusercontent.com/79481900/192140420-8ae45fc4-d6ba-41f6-a462-08c061f9d071.png)      |
