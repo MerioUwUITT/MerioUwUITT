@@ -28,6 +28,6 @@
 
 | Course      | Certificate |
 |-------------|-------------|
-| C#          |     ![C#](https://user-images.githubusercontent.com/79481900/192140415-ba7586c5-9c05-49e7-b235-f6f232f3571f.png)  |
-| C++         |        ![C++](https://user-images.githubusercontent.com/79481900/192140421-dadd3d30-d8a7-4cfb-924a-10531a900ee5.png)   |
-| Python Core |      ![Python Core](https://user-images.githubusercontent.com/79481900/192140420-8ae45fc4-d6ba-41f6-a462-08c061f9d071.png)      |
+| C#          | ![C#](https://user-images.githubusercontent.com/79481900/192201554-58af6339-d2ad-4adc-ba17-57ec3c688a9d.png) |
+| C++         | ![C++](https://user-images.githubusercontent.com/79481900/192201584-11a131c7-7113-4394-985d-f7a0588395e1.png) |
+| Python Core | ![Python Core](https://user-images.githubusercontent.com/79481900/192201565-1f63bb5a-2a88-48fc-9491-75caeddd1cbc.png) |
