@@ -4,7 +4,7 @@
 
 ----
 
-- 🔭 I’m currently studying on Instituto Tecnológico de Tijuana
+- 🔭 Computer Systems engineer.
 - 🌱 I Just got the awesome github Copilot!
 - 👯 I’m looking to collaborate on any type of programming stuff
 - 💬 Ask me about Naruto, I really love Naruto
